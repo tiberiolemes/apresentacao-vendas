@@ -1,0 +1,16 @@
+{
+  "name": "tiberio-apresentacao-vendas",
+  "owner": {
+    "name": "Tibério Lemes"
+  },
+  "metadata": {
+    "description": "Skills públicas para montar apresentações de vendas com roteiro automatizado do vendedor."
+  },
+  "plugins": [
+    {
+      "name": "apresentacao-vendas",
+      "source": "./plugins/apresentacao-vendas",
+      "description": "Skill para planejar a apresentação de vendas de um produto: slides para o cliente e roteiro do vendedor."
+    }
+  ]
+}
