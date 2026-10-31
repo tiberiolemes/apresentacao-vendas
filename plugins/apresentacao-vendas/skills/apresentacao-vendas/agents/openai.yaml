@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apresentação de vendas"
+  short_description: "Slides e roteiro do vendedor sobre a Oferta Sexy"
+  default_prompt: "Use $apresentacao-vendas para montar a apresentação de vendas do meu produto."
